@@ -3,6 +3,8 @@ json
   "BraveRewardsDisabled": true,
   "BraveWalletDisabled": true,
   "BraveVPNDisabled": true,
+  "IPFSDisabled": true,
+  "TorDisabled": true,
   "BraveAIChatEnabled": false,
   "DefaultGeolocationSetting": 2,
   "DefaultNotificationsSetting": 2,
